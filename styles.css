@@ -1,14 +1,14 @@
-body {font-family: 'Istok Web', sans-serif;margin: 0;}
-h2 {font-family: 'Istok Web', sans-serif; text-align: center; color: #aacfcf; font-size: 2rem;margin-top: 0;}
-.hero {position:relative; text-align: center; overflow: hidden; color: #aacfcf; background-color: #fde2e2; padding-bottom: 2rem;}
-.hero h1 {font-family: 'Holtwood One SC', serif;font-weight: normal;font-size: 5.4em;margin: 0 0 20px;text-transform: uppercase;letter-spacing: -1px; padding-top: 2rem; color: #aacfcf;}
-.hero p {font-family: 'Abel', sans-serif;text-transform: uppercase; color: #aacfcf; letter-spacing: 6px;font-size: 1.2em;}
+body {font-family: 'Istok Web', sans-serif; margin: 0;}
+h2 {font-family: 'Istok Web', sans-serif; text-align: center; color: #aacfcf; font-size: 2rem; margin-top: 0;}
+.hero {position: relative; text-align: center; overflow: hidden; color: #aacfcf; background-color: #fde2e2; padding-bottom: 2rem;}
+.hero h1 {font-family: 'Holtwood One SC', serif; font-weight: normal; font-size: 5.4em; margin: 0 0 20px; text-transform: uppercase; letter-spacing: -1px; padding-top: 2rem; color: #aacfcf;}
+.hero p {font-family: 'Abel', sans-serif; text-transform: uppercase; color: #aacfcf; letter-spacing: 6px; font-size: 1.2em;}
 .hero-wrap {padding: 1em 10px 3em;}
-.hero p.intro {font-family: 'Holtwood One SC', sans-serif;text-transform: uppercase;letter-spacing: 1px;font-size: 3em;margin-bottom:-45px; padding-left: 10%; padding-right: 10%;}
+.hero p.intro {font-family: 'Holtwood One SC', sans-serif; text-transform: uppercase; letter-spacing: 1px; font-size: 3em; margin-bottom: -45px; padding-left: 10%; padding-right: 10%;}
 .hero p.year {color: #aacfcf; letter-spacing: 20px; font-size: 34px; margin: -25px 0 25px;}
-.hero p.year i {font-size: 14px;vertical-align: middle;}
+.hero p.year i {font-size: 14px; vertical-align: middle;}
 #bracket {overflow:hidden;background-color: #434e52;padding-top: 10px;font-size: 12px;padding: 40px 0;}
-.container {max-width: 1100px;margin: 0 auto;display:block;display: -webkit-box;display: -moz-box;display: -ms-flexbox;display: -webkit-flex;display: -webkit-flex;display: flex;-webkit-flex-direction:row;flex-direction: row;}
+.container {max-width: 1100px; margin: 0 auto; display: block; display: -webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: -webkit-flex; display: flex; -webkit-flex-direction: row; flex-direction: row;}
 .split {display:block;float:left;display: -webkit-box;display: -moz-box;display: -ms-flexbox;display: -webkit-flex;display:flex;width: 42%;-webkit-flex-direction:row;-moz-flex-direction:row;flex-direction:row;}
 .champion {float:left;display:block;width: 16%;-webkit-flex-direction:row;flex-direction:row;-webkit-align-self:center;align-self:center;margin-top: -15px;text-align: center;padding: 230px 0\9;}
 .champion i {color: #a0a6a8; font-size: 45px;padding: 10px 0; }
